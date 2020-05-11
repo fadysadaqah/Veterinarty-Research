@@ -1,0 +1,105 @@
+Topic : Urine formation
+
+------------------------------------------
+Subtopics :- 
+A) Urine formation steps
+    1-Filtration
+    2-Reabsorption
+    3-Secretion
+------------------------------------------
+Body : -
+<<http://fblt.cz/en/skripta/vii-vylucovaci-soustava-a-acidobazicka-rovnovaha/3-tvorba-moci/>>
+1- 
+    Functional anatomy:
+    The basic functional unit for the urine formation is called nephron. Very important is the arrangement of nephron: it begins with renal corpuscle (Malpighi) that consists of a glomerulus, which is supplied by afferent glomerular arteriole and drained by efferent glomerular arteriole, and Bowman’s capsule (capsula glomeruli, glomerular capsule). Renal tubules have three segments. The proximal tubule, in which we distinguish pars convoluta (initial section) and pars recta, loop of Henle (intermediate tubule), where can be recognized the descending limb and ascending limb (its proximal part is formed by a thick segment of the ascending limb), and distal convoluted tubule (which has conversely first pars recta and then the pars convoluta) that subsequently joins the collecting ducts.
+    {{img-1}}
+    
+2-
+    Functional histology
+    Glomerulus consists of fenestrated capillaries without diaphragm that form important part of a renal filtration barrier. Blood flow and blood pressure in afferent and efferent arteriole is strictly regulated, which allows glomerular filtration into Bowman’s capsule. Visceral layer of Bowman’s capsule consists of podocytes and their pedicels that tightly fit to the basement membrane of capillaries. Parietal layer is formed by a single layer of simple squamous epithelium. The renal filtration barrier is composed of the fenestrated capillary endothelium, the basement membrane and the pedicles of podocytes. Pedicels interdigitate with one another forming filtration slits that are spanned by slit diaphragms (formed by protein nephrin). Due to its negative charge it prevents the filtration of plasma proteins.
+    
+    {{img-2}}
+
+    In the glomerulus we can find mesangium that provides mechanical support, has the phagocytic activity and secrets prostaglandins. Mesangial cells outside the glomerulus together with the macula densa cells (distal segment of the ascending limb of loop of Henle) and the granular cells (modified smooth muscle cells of the afferent arteriole) from juxtaglomerular apparatus. This is the place where renal corpuscle gets into contact with the renal tubular system.
+
+    The proximal tubule is lined by simple cuboidal epithelium with a well-developed brush border on the luminal side, the thin portion of Henle’s loop is lined by a simple squamous epithelium (poor in organelles). The distal tubule cells are smaller than those of proximal tubule and lack the brush border. Collecting ducts consist of principal intercalated cells.
+    
+3-
+    *Glomerular filtration
+    The volume of liquid filtered per unit time in all glomeruli can be expressed as the glomerular filtration rate (GFR). Its physiological value is 120 ml/min/1,73m2 body surface area, thus 180 l/day. About 99 % of the filtrate gets reabsorbed by the tubular resorption to the extracellular fluid (back into the body), leaving only 1.5-2 l of urine per day. Movement of the fluid through the filtration membrane is controlled and determined by the ratio of the hydrostatic pressure in the capillaries and oncotic pressure of plasma proteins (less by the hydrostatic pressure of the interstitial fluid and oncotic pressure in the filtrate). These forces are called Starling´s forces and there are a few differences from the general principles:
+
+    1) Fluid is not exchanged between the capillary and the interstitium, but between the capillary and the fluid of Bowman’s capsule
+
+    2) Hydrostatic pressure in the capillaries is different, the movement is thus only one-sided (in the direction of filtration)
+
+    3) Filtration barrier (see above) has a unique structure and properties which do not allow passage of proteins into the filtrate (primary urine)
+
+    GFR is therefore dependent on the renal blood flow, the filtration pressure, the plasma oncotic pressure, and the size of the filtration area.
+
+        **Control of glomerular filtration
+        Its main determinant is the renal blood flow that is directly proportional to the pressure difference between renal artery and renal vein and inversely proportional to the peripheral resistance of the afferent and efferent arteriole and the interlobular artery. We distinguish local and central regulatory mechanisms.
+
+            ***Local regulatory mechanisms
+            Local regulatory mechanisms consist mainly of myogenic autoregulation and tubuloglomerular feedback.
+
+                ****Myogenic autoregulation
+                Elevated blood pressure leads to the contraction of renal blood vessels, thereby increasing peripheral resistance. The reverse process occurs when the blood pressure decreases. Thanks to this regulatory mechanism remains the renal blood flow (and thus the GFR) relatively unchanged during normal fluctuations of the mean arterial blood pressure (80-180 mmHg).
+
+                ****Tubuloglomerular feedback
+                A decrease in GFR is registers by macula densa (part of the juxtaglomerular apparatus). As an answer to the detection of a low flow of tubular fluid or a reduced amount of sodium ions it sends paracrine chemical signal that causes vasodilation of the afferent arteriole, leading to an increase in a hydrostatic pressure and to a restoration of normal GFR.
+
+            ***Central regulatory mechanisms
+            The central regulatory mechanisms are less important. They are represented by the sympathetic nervous system, epinephrine, angiotensin II, prostaglandins and adenosine.
+
+            Postganglionic neurotransmitter of the sympathetic nervous system norepinephrine causes particularly in the afferent arteriole vasoconstriction, thereby reducing the renal blood flow (and thus the GFR) It is important especially in stressful situations, including pain and bleeding. Epinephrine has a similar effect.
+
+            Angiotensin II (via angiotensin receptor AT1) acts on both the afferent arteriole and the efferent arteriole in similar way as sympathetic nervous system and epinephrine.
+
+            Locally produced prostaglandins (especially E2 and I2) reduce the effects of sympathetic nervous system and angiotensin II on both the afferent arteriole and the efferent arteriole.
+
+            Adenosine is generally effective vasodilator, in afferent arteriole but acting as vasoconstrictor.
+
+            Furthermore, the renal blood flow is increased by atrial natriuretic peptide (ANP), glucocorticoids, nitric oxide or kinins, whereas antidiuretic hormone (ADH), ATP and endothelin cause a reduction in the renal blood flow.
+
+    
+5- 
+    *Assessment of the glomerular filtration rate
+        If we want to determine GFR, which is one of the basic function of our kidneys, we have to use a substance that is excreted from the body only by glomerular filtration (inulin, creatinine) and is not affected by tubular processes. As an example we can mention the calculation of the clearance (plasma volume that is per unit time completely cleaned of marker substances) of endogenous creatinine, whose formula has the following form:
+
+        {{img-3}}
+
+        U – urine creatinine concentration in mmol/l
+
+        V – volume of urine (diuresis) in ml/s
+
+        P – plasma creatinine concentration in mmol/l
+
+        In clinical practice, we use more complex calculations, corrected for body surface area (and other physical parameters) – e.g. equation by Cockroft and Gault, equation MDRD etc.
+
+6-
+    *Tubular reabsorption and secretion
+        As we mentioned above, about 99 % of the filtrate gets reabsorbed by the tubular resorption to the extracellular fluid (back into the body), leaving only 1.5-2 l of urine per day. The main task for renal tubules is therefore an isosmotic tubular reabsorption of primary urine. They absorb water, ions (sodium, chlorides, potassium, calcium, magnesium, bicarbonate or phosphate), urea, glucose and amino acids. All of this is independent on the extracellular fluid volume in the body – we speak about the obligatory resorption. Its primary role is to maintain fluid volume in the body under normal conditions.
+
+        Transport can be carried by passive diffusion (in the direction of the concentration or electrical gradient), primary active transport against gradient (needs energy – ATP) or secondary active transport (transport protein uses the concentration gradient created by a primary active transport realized by other transport protein). Substances can be transported by paracellular or transcellular routes. Transport of water is always passive. Na+/K+-ATPase located on the basolateral membrane plays important role in the secondary active transport. It creates a concentration gradient for Na+. Transport proteins act as symporters (transport of compound is coupled to the transport of Na+ in the same direction) or antiporters (transport of compound is coupled to the transport of Na+ in the opposite direction). To understand the processes in the tubular system, we must imagine tubular epithelial cells, their apical membrane facing the tubular fluid (primary urine), basolateral membrane, on the other hand, is in contact with the peritubular fluid (here is located the Na+/K+-ATPase).
+        
+        {{img-4}}
+
+        **The proximal tubule
+            Reabsorption of sodium ions is in the first half of the proximal tubule coupled with the reabsorption of bicarbonate, glucose, amino acids, lactate, urea and phosphate. Absorbed compounds are osmotically active, thereby draining water from tubules. This leads to an increased concentration of chloride ions in the tubular fluid that is very important for a resorption in other parts of the proximal tubule.
+
+            ***Reabsorption of bicarbonate ions in the proximal tubule
+                Movement of bicarbonate and hydrogen ions depends on the transport sodium ions. This process is catalyzed by enzyme carbonic anhydrase (located in the apical membrane and in the intracellular part of the epithelial cells). The first step is the secretion of H+ into the tubular fluid through the Na+/H+ antiport, located at the luminal (apical) membrane of proximal tubule cells. Transferred H+ may in the tubular fluid react with filtered bicarbonate ions to form carbonic acid. Carbonic anhydrase facilitates the decomposition of carbonic acid in the tubular fluid to water and carbon dioxide. Both compounds can freely diffuse into the tubule epithelial cells, where carbonic acid is restored by the carbonic anhydrase. Molecules of carbonic acid dissociates into hydrogen and bicarbonate ions. Bicarbonate ions then pass through the basolateral membrane into the interstitial fluid through Na+/3HCO3–-cotransporter or anion exchanger (Cl–/HCO3–). H+ returns via antiport with Na+ into the tubular fluid. For each secreted H+, Na+ and HCO3– is absorbed (Na+ is returned to the blood by active transport in exchange for K+ – Na+/K+-ATPase).
+
+            ***Renal (tubular) threshold
+                Glucose, amino acid and many other organic compounds are in this part of the tubule completely resorbed under physiological conditions. This transport has some maximum value – so-called renal/tubular threshold. As an example we can mention the renal threshold for glucose. When this renal threshold is exceeded (due to too high plasma concentration – such as 10 mmol/l for glucose), glucose reabsorption in the proximal tubule is incomplete and some amount of glucose remains in the final urine. Unabsorbed osmotically active molecules drain water molecules to renal tubules, thereby increasing diuresis (osmotic polyuria).
+
+                Reabsorption of sodium ions is in the second half of the proximal tubule coupled with the transport of chloride ions, used are both transcellular (on basolateral membrane helps K+/Cl–-symport) and paracellular routes. Relatively abundant positively charged ions (sodium, potassium, calcium, magnesium) in the tubular fluid accompany chloride ions in paracellular transport. Transport of ions is followed by passive reabsorption of water.
+
+        **Loop of Henle
+        Henle’s loop absorbs about 25 % of the solutes (thick segment of the ascending limb), but only about 15 % water (descending limb). Its proper function (thick part of the ascending limb is impermeable to water and has active transport of Na+ and Cl–) is essential for the formation of a high osmotic pressure (hyperosmolarity) in the renal medulla that ensures a production of highly concentrated urine. Some mechanisms of reabsorption of ions are similar to those in the proximal tubule. Very important is the specific symport of Na+, K+ and 2 Cl– across the apical membrane. This symport uses energy derived from the transport of sodium and chloride ions in the direction of their concentration gradient for the transport of potassium ions into the cell (against their concentration gradient). Some of these ions leave cells on the basolateral membrane (together with Cl–), some return back into the tubular fluid, thereby creating an electrical imbalance. Due to this, positively charged ions (Na+, K+, Ca2+, Mg2+) are resorbed by paracellular route (very important mechanism for resorption of solutes). This is especially significant for formation of a hypertonic renal medulla. Hypotonic fluid leaves the loop of Henle and enters the distal tubule.
+
+         {{img-5}}
+         
+        Clinical correlation:
+        Substances that block the symport (e.g. furosemide) are used as very effective diuretic drugs – loop diuretics.
+
